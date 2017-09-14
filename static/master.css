@@ -1,0 +1,9 @@
+.error {
+    background-color: red;
+}
+
+button {
+    background-color: lightgray;
+    width:10%;
+    min-height:10%;
+}
